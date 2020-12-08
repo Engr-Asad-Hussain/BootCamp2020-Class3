@@ -13,6 +13,7 @@ function Games(props)  {
                 <li>Age of Empire</li>
                 <li>Project IGI</li>
                 <li>GTA Vice City</li>
+                <li>Freedom Fighter</li>
             </ul>
             <h1>User's Feedback:</h1>
             <p>I love playing following games since past 10 years</p>
