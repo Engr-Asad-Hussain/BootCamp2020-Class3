@@ -11,6 +11,7 @@ function Games(props)  {
                 <li>PUBG</li>
                 <li>Empire Earth</li>
                 <li>Age of Empire</li>
+                <li>Project IGI</li>
             </ul>
             <h1>User's Feedback:</h1>
             <p>I love playing following games since past 10 years</p>
