@@ -17,3 +17,6 @@
   - Whatever is code will be in tree like stucture means parent and child format.
   - React is a Uni-directional. Means It follows from parent to child.
   - Virtual DOM is, whenever there is any change to user end, React make that change in VDOM and then update that change to all the users. VDOM is like an snapshot of complete DOM that everyone views.
+
+#### - What is Functional Component?
+  - Functional components also known as stateless components. We have made functions and passes props and call them in another parent function.
